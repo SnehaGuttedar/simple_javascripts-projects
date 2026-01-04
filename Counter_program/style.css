@@ -7,15 +7,56 @@ body{
     height:100%;
     margin:0px;
     display:block;
+    text-align: center;
     
-  
-
 }
 #l1{
     height:400px;
     width:100%;
-   font-size: 10rem;
-   border:1px solid 
-
+   font-size: 10em;
+   text-align: center;
+}
+#l1:hover{
+    font-size:12em ;
+}
+ 
+#l1:active{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#b1{
+    border-radius:20px;
+    background-color:brown;
+    font-size: 20px;
+    color:white;
+}
+#b1:hover{
+    font-size:25px;
+}
+#b1:active{
+    background-color:chocolate;
+}
+#b2{
+    border-radius:20px;
+    background-color:brown;
+    font-size: 20px;
+    color:white;
+}
+#b2:hover{
+    font-size:25px;
+}
+#b2:active{
+    background-color:chocolate;
+}
+#b3{
+    border-radius:20px;
+    background-color:brown;
+    font-size: 20px;
+    color:white;
+}
+#b3:hover{
+    font-size:25px;
+}
+#b3:active{
+    background-color:chocolate;
 }
 
